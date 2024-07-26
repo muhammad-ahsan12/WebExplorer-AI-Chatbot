@@ -1,4 +1,4 @@
-streamlit==1.25.0
+streamlit
 langchain==0.0.148
 beautifulsoup4==4.11.2
 requests==2.28.1
